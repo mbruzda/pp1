@@ -1,0 +1,4 @@
+# hehe
+
+ 
+print ("Lubie placki")
