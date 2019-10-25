@@ -1,10 +1,7 @@
-tab=[15,8,31,47,2,19]
+x=int(input("Podaj ilosc wierszy: "))
+y=int(input("Podaj ilosc gwiazdek w jednym wierszu: "))
 
-suma=0
-n=0
-for i in tab:
-    if i%2!=0:
-        suma+=i
-        n+=1    
-   
-print(suma/n)   
+
+for i in range(x):
+    print(y*"*")
+    
