@@ -1,7 +1,7 @@
 "Arkansas State University, Mountain Home"
 "California State University, Channel Islands"
 "Central University of Technology, Free State"
-"Fachhochschule Nürtingen, Hochschule für Wirtschaft, Landwirtschaft und Landespflege"
+"Fachhochschule NÃ¼rtingen, Hochschule fÃ¼r Wirtschaft, Landwirtschaft und Landespflege"
 "Indian Institute of Technology, Kharagpur"
 "Institute of Advanced Legal Studies, University of London"
 "Islamic Azad University, Dehaghan"
@@ -20,12 +20,12 @@ Cyprus International Institute of Management (CIIM)
 Daniel Webster College
 Dar al Hekma College
 Dhirubhai Ambani Institute of Information and Communication Technology
-Ecole Nationale Supérieure Electricité et Mécanique
-Ecole Supérieure de Commerce de Nantes-Atlantique
+Ecole Nationale SupÃ©rieure ElectricitÃ© et MÃ©canique
+Ecole SupÃ©rieure de Commerce de Nantes-Atlantique
 Ecole des Hautes Etudes Commerciales
 Ege University
 European Institute of Education
-Eötvös Lorand University
+EÃ¶tvÃ¶s Lorand University
 Far Eastern University
 Fukuoka Prefectural University
 Georgia Health Sciences University
@@ -36,7 +36,7 @@ Groupe Sup de Co Montpellier
 Hanoi Open University
 Henan Agriculture University
 IMPAC University
-Institut National Supérieur de Formation Agro-Alimentaire
+Institut National SupÃ©rieur de Formation Agro-Alimentaire
 Kazak National Technical University
 Kazakh British Technical University
 Lagrange College
@@ -58,9 +58,10 @@ Pakistan Institute of Engineering and Applied Sciences (PIEAS)
 Russian State University for the Humanities
 Shimonoseki City University
 Somaliland University of Technology
-Staatliche Hochschule für Musik
+Staatliche Hochschule fÃ¼r Musik
 State University of New York at Binghamton
-Sultan Azlan Shah Polytechnic Suwon University
+Sultan Azlan Shah Polytechnic 
+Suwon University
 Taganrog State University of Radioengineering
 Technical University of Denmark
 Technical University of Kielce
@@ -72,7 +73,7 @@ Universidade Metodista de Piracicaba
 Universidade Tiradentes
 Universitas Jenderal Achmad Yani
 Universitas Muhammadiyah Mataram
-Universitat Autónoma de Barcelona
+Universitat AutÃ³noma de Barcelona
 Universiteit Doesburg (UNDO)
 University Centre of the Westfjords
 University of Auckland
@@ -89,10 +90,10 @@ University of Sharjah
 University of South Carolina - Aiken
 University of Southern Indiana
 University of the Philippines Los Banos
-Université Paris-Dauphine (Paris IX)
-Université de Béjaia
-Université de Versailles Saint-Quentin-en-Yvelines
-Université du Québec en Abitibi-Témiscamingue
+UniversitÃ© Paris-Dauphine (Paris IX)
+UniversitÃ© de BÃ©jaia
+UniversitÃ© de Versailles Saint-Quentin-en-Yvelines
+UniversitÃ© du QuÃ©bec en Abitibi-TÃ©miscamingue
 Ural State Academy of Railway Transport
 Xinjiang University
 Yamagata University
